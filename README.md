@@ -27,4 +27,4 @@ docker run -p 3000:3000 o2h-app
 Hello from o2h DevOps Assessment
 
 ## Repository Link
-https://github.com/bjayanthi761/o2h-devops-assessment
+https://github.com/bjayanthi761/o2h-devops-assessment.git
